@@ -1,4 +1,4 @@
-                                                            Text Justification Tool
+                                                    Text Justification Tool
 Java
 License
 
